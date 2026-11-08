@@ -1,0 +1,27 @@
+# docker compose up --build   →  dashboard on http://localhost:8501, API docs on http://localhost:8000/docs
+services:
+  api:
+    build: .
+    image: review-intelligence
+    env_file: .env                     # GEMINI_API_KEY (optional: without it the local models still work)
+    ports:
+      - "127.0.0.1:8000:8000"          # local machine only
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 8
+      start_period: 40s
+    restart: unless-stopped
+
+  ui:
+    image: review-intelligence
+    command: ["streamlit", "run", "ui/streamlit_app.py", "--server.address", "0.0.0.0", "--server.port", "8501"]
+    environment:
+      API_URL: http://api:8000
+    ports:
+      - "127.0.0.1:8501:8501"
+    depends_on:
+      api:
+        condition: service_healthy
+    restart: unless-stopped

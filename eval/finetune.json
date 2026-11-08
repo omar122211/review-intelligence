@@ -1,0 +1,21 @@
+{
+ "accuracy": 0.7943,
+ "macro_f1": 0.7944,
+ "ms_per_review": 43.3,
+ "history": [
+  {
+   "epoch": 1,
+   "train_loss": 0.615,
+   "val_macro_f1": 0.773,
+   "minutes": 58.7
+  },
+  {
+   "epoch": 2,
+   "train_loss": 0.4239,
+   "val_macro_f1": 0.824,
+   "minutes": 58.5
+  }
+ ],
+ "epochs": 2,
+ "max_tokens": 256
+}

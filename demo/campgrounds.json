@@ -1,0 +1,582 @@
+[
+ {
+  "id": "pine-hollow",
+  "name": "Pine Hollow Campground",
+  "location": "Bolu, Türkiye",
+  "generated_by_ai": true,
+  "reviews": [
+   {
+    "id": 1,
+    "author": "Ahmet",
+    "stars": 5,
+    "text": "Pine Hollow is an absolute gem near Bolu. The gravel road getting in is a bit rough on the suspension, taking a full twenty minutes, but it is entirely worth it. Waking up right by the lake surrounded by dense pine trees was magical. The new shower block is the cleanest I have ever seen at any campground. Very quiet at night."
+   },
+   {
+    "id": 2,
+    "author": "Elif",
+    "stars": 4,
+    "text": "Stunning location by the water. You really feel immersed in nature, and the nighttime quiet is wonderful for stargazing. My only complaint is the pricing, which feels quite high for Turkey, plus the bumpy gravel road on the way in. However, the hot showers and spotless facilities almost make up for the cost."
+   },
+   {
+    "id": 3,
+    "author": "Mehmet",
+    "stars": 3,
+    "text": "Mixed feelings about our stay. The natural setting by the Bolu lake is gorgeous and the new bathroom facilities are spotless. But honestly, the nightly rate is overpriced for what you get. The twenty-minute gravel road is also annoying if you want to leave the park often. Peaceful at night, though."
+   },
+   {
+    "id": 4,
+    "author": "Zeynep",
+    "stars": 5,
+    "text": "We loved every minute! Pitches are right in the forest with lovely lake views. It was so peaceful at night, just the sound of the wind in the trees. The shower block is brand new and impeccably clean. Yes, the access road is gravel and takes twenty minutes to navigate slowly, but it keeps the area quiet and secluded."
+   },
+   {
+    "id": 5,
+    "author": "Can",
+    "stars": 2,
+    "text": "Way too expensive for a campsite. The location by the lake in Bolu is nice, and the new shower facilities are clean, but the price tag is hard to swallow. The twenty-minute drive down a dusty gravel road is also a major pain. Probably will not return given the high cost."
+   },
+   {
+    "id": 6,
+    "author": "Selin",
+    "stars": 5,
+    "text": "If you want peace and quiet, this is the place. Pitching our tent among the pines right next to the lake was heavenly. Nights are exceptionally quiet. The shower block is modern and spotless. The gravel road is a bit long at twenty minutes, but drive slow and enjoy the forest views on the way in."
+   },
+   {
+    "id": 7,
+    "author": "Burak",
+    "stars": 4,
+    "text": "Great spot overall. The lake setting is picturesque and the forest provides great shade. Facilities are brand new and very clean. It is on the pricier side compared to other spots in Bolu, and that twenty-minute gravel access road tests your patience, but the tranquility at night makes it worthwhile."
+   },
+   {
+    "id": 8,
+    "author": "Deniz",
+    "stars": 3,
+    "text": "Beautiful nature, terrible road. That twenty-minute gravel stretch is punishing on a standard car. Once you arrive, the lake is lovely and the new shower block is very clean. It is quite expensive though, and while it was quiet during the week, weekend campers brought some noise."
+   },
+   {
+    "id": 9,
+    "author": "Ayse",
+    "stars": 5,
+    "text": "An oasis of calm! We spent three nights by the lake and slept so well because it is dead silent at night. The new shower block is better than many hotels. It is a bit pricey and the twenty-minute gravel road requires a careful drive, but the forest beauty completely wins you over."
+   },
+   {
+    "id": 10,
+    "author": "Emre",
+    "stars": 4,
+    "text": "Pine Hollow offers a fantastic escape into the Bolu wilderness. The sites are shaded and close to the water. Brand new, spotless showers are a huge plus. It loses a star because of the steep price and the bumpy twenty-minute gravel road that rattles your teeth. Still, a very nice getaway."
+   },
+   {
+    "id": 11,
+    "author": "Fatma",
+    "stars": 1,
+    "text": "Not worth the money at all. Extremely overpriced for a basic campsite. The twenty-minute gravel road is awful, shaking our camper van the whole way. While the new shower block was clean, it could not make up for the exorbitant fees and lack of amenities for children. We left early."
+   },
+   {
+    "id": 12,
+    "author": "Kerem",
+    "stars": 4,
+    "text": "A wonderful lakeside retreat. The forest setting is lush and relaxing. At night, you hear nothing except nature. The new shower block is gleaming and spotless. It is definitely on the expensive side, and the twenty-minute gravel road requires patience, but the peaceful atmosphere is hard to beat."
+   },
+   {
+    "id": 13,
+    "author": "Cem",
+    "stars": 5,
+    "text": "Hands down one of the best campgrounds near Bolu. Yes, the twenty-minute gravel road is tedious, but it protects the area from crowds. The lake views are stunning, the forest sites are spacious, and the new shower block is impressively clean. Exceptionally quiet at night. Worth every lira."
+   },
+   {
+    "id": 14,
+    "author": "Merve",
+    "stars": 3,
+    "text": "Decent place, but has flaws. The lake and pine trees are gorgeous, and the new showers are spotless. However, the price is quite high for a patch of dirt in the woods. That twenty-minute gravel road is also a nuisance if you plan to explore Bolu town frequently."
+   },
+   {
+    "id": 15,
+    "author": "Ouzhan",
+    "stars": 4,
+    "text": "We enjoyed our weekend here. The location right by the Bolu lake is hard to beat, and the absolute silence at night was glorious. Facilities are new and exceptionally clean. It is pricey, and the twenty-minute gravel road is rough, but overall a top-tier nature experience."
+   },
+   {
+    "id": 16,
+    "author": "Berna",
+    "stars": 2,
+    "text": "Disappointed by the value. Pine Hollow charges premium prices but lacks basic camp store options. The twenty-minute gravel road is dusty and annoying. On the plus side, the lake is pretty and the new shower block is very clean. It was quiet at night, but not worth the high cost."
+   },
+   {
+    "id": 17,
+    "author": "Tolga",
+    "stars": 5,
+    "text": "Perfection in the woods! Setting up camp by the lake under the pines was amazing. It is wonderfully quiet at night, perfect for deep sleep. The new shower block is spotless and modern. The twenty-minute gravel road just adds to the feeling of remote adventure. Highly recommended for nature lovers."
+   },
+   {
+    "id": 18,
+    "author": "Nazli",
+    "stars": 4,
+    "text": "Lovely forest and lake views make Pine Hollow special. The brand new shower block is pristine, which I really appreciate. It is quite pricey for camping, and the twenty-minute gravel road is a bumpy ride, but the tranquil nights by the water make it a memorable stay."
+   }
+  ]
+ },
+ {
+  "id": "sunset-dunes",
+  "name": "Sunset Dunes RV Park",
+  "location": "Fethiye, Türkiye",
+  "generated_by_ai": true,
+  "reviews": [
+   {
+    "id": 1,
+    "author": "Marcus",
+    "stars": 5,
+    "text": "Unbeatable price for a beachfront spot in Fethiye. The sunsets over the water are genuinely breathtaking and worth dealing with the minor drawbacks. Pitches are a bit tight, but you are right on the sand. Will definitely return in the shoulder season."
+   },
+   {
+    "id": 2,
+    "author": "Elena",
+    "stars": 3,
+    "text": "Loved the location and the price is super cheap, but the noise from the nearby beach bar kept us awake until 2 AM every night in July. The bathrooms also get really messy during peak evening hours. Bring earplugs and lower your expectations for cleanliness."
+   },
+   {
+    "id": 3,
+    "author": "Ahmet",
+    "stars": 4,
+    "text": "If you want luxury, look elsewhere. If you want a budget-friendly camp right on the Mediterranean, this is it. Sunset views are legendary. Facilities need more frequent cleaning during peak summer, but the staff does try their best."
+   },
+   {
+    "id": 4,
+    "author": "Sarah",
+    "stars": 2,
+    "text": "Way too crowded and loud during August. The music from the beach bar thumps until the early morning hours, making sleep impossible. Bathrooms were frankly gross by midday. Cheap rates do not quite make up for the lack of sleep and basic hygiene."
+   },
+   {
+    "id": 5,
+    "author": "Lukas",
+    "stars": 5,
+    "text": "Incredible value! We paid very little to park our camper van steps from the beach. Yes, it gets busy and the music is loud, but that is part of the summer vibe here. The sunset views alone are easily worth five stars."
+   },
+   {
+    "id": 6,
+    "author": "Zeynep",
+    "stars": 3,
+    "text": "A mixed bag. The location directly on the beach is stunning and the prices are very affordable for the region. However, the sanitary facilities are heavily overworked in the summer and rarely clean. Expect party noise late into the night."
+   },
+   {
+    "id": 7,
+    "author": "David",
+    "stars": 4,
+    "text": "Great spot for backpackers and budget travelers. You can not beat stepping out of your tent right onto the sand. It is definitely noisy with the beach crowd and the bathrooms need constant attention, but the price-to-view ratio is amazing."
+   },
+   {
+    "id": 8,
+    "author": "Cem",
+    "stars": 1,
+    "text": "Terrible experience in peak season. It is overcrowded, deafeningly loud with beach club music, and the toilets were filthy beyond belief. Cheap pricing does not excuse poor sanitation and zero noise control. Will not be back."
+   },
+   {
+    "id": 9,
+    "author": "Hannah",
+    "stars": 4,
+    "text": "Such a fun spot! It is loud and chaotic in the summer, but the energy is great and the sunsets are pure magic. Bathrooms could be cleaner, but for the super low price, I can overlook it. Just pack earplugs!"
+   },
+   {
+    "id": 10,
+    "author": "Oliver",
+    "stars": 3,
+    "text": "Decent place if you are on a tight budget and love the beach. The evening sunsets are world-class. On the downside, the restrooms get neglected when the park is full, and the nearby bar music is loud until late."
+   },
+   {
+    "id": 11,
+    "author": "Fatma",
+    "stars": 5,
+    "text": "We had an amazing time here. The camping fee is very low compared to other spots along the coast. The beach access is immediate and the sunsets are unforgettable. Facilities are basic and busy, but perfectly fine for us."
+   },
+   {
+    "id": 12,
+    "author": "Thomas",
+    "stars": 2,
+    "text": "Too much party noise and not enough bathroom upkeep. The spot is right on the beach and very cheap, which is nice, but we barely slept because of the loud music and people shouting until dawn. Needs better management."
+   },
+   {
+    "id": 13,
+    "author": "Mia",
+    "stars": 4,
+    "text": "Stunning location with cheap rates! The sunsets over the sea are gorgeous. It gets very crowded in summer and the bathrooms take a beating, but if you embrace the lively beach atmosphere, it is a fantastic bargain."
+   },
+   {
+    "id": 14,
+    "author": "Can",
+    "stars": 3,
+    "text": "Sunset Dunes lives up to its name with incredible evening views. It is inexpensive, but you get what you pay for: noisy neighbors, loud beach bars, and dirty bathrooms during peak hours. Good for a couple of nights."
+   },
+   {
+    "id": 15,
+    "author": "Sophie",
+    "stars": 5,
+    "text": "Loved it! Yes, it is crowded and the bathrooms get messy, but you are camping right on a gorgeous beach for a fraction of what others charge. The sunsets are mesmerizing. Just go with the flow and enjoy it."
+   },
+   {
+    "id": 16,
+    "author": "Liam",
+    "stars": 2,
+    "text": "Disappointed by the lack of cleanliness and sleep. The beach is nice and the price is cheap, but the sanitary blocks were disgusting by morning and the beach bar bass vibrated our van until 3 AM. Not relaxing at all."
+   },
+   {
+    "id": 17,
+    "author": "Deniz",
+    "stars": 4,
+    "text": "A very vibrant, cheap, and beautiful campground right on the water. Be prepared for crowds, loud music from the surrounding area, and waiting for the restrooms. But waking up to that sea view makes it totally worth it."
+   },
+   {
+    "id": 18,
+    "author": "Chloe",
+    "stars": 3,
+    "text": "Gorgeous sunsets and very affordable, but the noise level and dirty facilities in July make it hard to rate higher. Great if you want a cheap beach party vibe, but skip it if you are looking for peace and quiet."
+   }
+  ]
+ },
+ {
+  "id": "eagle-ridge",
+  "name": "Eagle Ridge Mountain Camp",
+  "location": "Kaçkar Mountains, Türkiye",
+  "generated_by_ai": true,
+  "reviews": [
+   {
+    "id": 1,
+    "author": "Ahmet",
+    "stars": 5,
+    "text": "Absolute paradise in the Kaqkar Mountains. Waking up to these alpine views is something I will never forget. The ranger was incredibly welcoming and gave us great hiking tips. Facilities are as basic as advertised with pit toilets and zero showers, but if you come prepared for roughing it, the sheer beauty makes it completely worth the journey."
+   },
+   {
+    "id": 2,
+    "author": "Sarah",
+    "stars": 3,
+    "text": "The location is breathtaking, sitting right in a gorgeous high-altitude meadow surrounded by peaks. However, be warned that the nights get freezing even in summer. The pit toilets were pretty rough by the second day and the lack of running water is a challenge. Ranger was very nice, but you really need to pack in everything you need."
+   },
+   {
+    "id": 3,
+    "author": "Mehmet",
+    "stars": 5,
+    "text": "If you love remote mountain camping, this is the spot. Pitching your tent under the stars here feels magical. Excellent access to stunning hiking trails right from your site. Facilities are primitive with no showers, but the untouched nature and fresh mountain air more than compensate. Will definitely return next year."
+   },
+   {
+    "id": 4,
+    "author": "Elena",
+    "stars": 4,
+    "text": "Stunning scenery and very peaceful atmosphere. The wildflowers in the meadow were incredible. The camp ranger checked on us and was super friendly. It gets intensely cold after sunset, so bring thermal gear. Pit toilets are extremely basic, but expected for such a remote alpine setting."
+   },
+   {
+    "id": 5,
+    "author": "Can",
+    "stars": 2,
+    "text": "Too remote and lacking basic comforts for my taste. The views are nice, but having no showers and overflowing pit toilets made a three-day stay quite uncomfortable. Temperatures dropped way lower than forecast. The ranger was the only highlight as he was very helpful."
+   },
+   {
+    "id": 6,
+    "author": "Hannah",
+    "stars": 5,
+    "text": "Pure bliss. Pit toilets and no electricity meant absolute digital detox and quiet time. The hiking trails nearby are world-class. Nights are chilly, so a good sleeping bag is essential. The friendly ranger made us feel safe and welcome in this remote wilderness."
+   },
+   {
+    "id": 7,
+    "author": "Burak",
+    "stars": 4,
+    "text": "An authentic high-mountain camping experience. You trade luxury for untouched nature, which is a great trade in my book. Amazing backdrop of the Kaqkar peaks. Bring your own water filtration and expect cold nights. The ranger is a great guy who knows the mountain well."
+   },
+   {
+    "id": 8,
+    "author": "Jessica",
+    "stars": 3,
+    "text": "Mixed feelings about Eagle Ridge. The landscape is a solid five stars, but the primitive facilities drag it down. Pit toilets need better maintenance during peak season. It is freezing at night. Still, the day hikes and the friendly ranger saved the experience."
+   },
+   {
+    "id": 9,
+    "author": "Deniz",
+    "stars": 5,
+    "text": "Incredible alpine meadow camping! You are completely immersed in nature with zero urban noise. The views of the mountains at sunrise are unreal. Yes, facilities are basic with no showers, but that keeps the crowds away. The ranger is very helpful and kind."
+   },
+   {
+    "id": 10,
+    "author": "Liam",
+    "stars": 2,
+    "text": "Way too basic. I expected rustic, but the pit toilets were truly awful and unusable by morning. The location is undeniably gorgeous and the hiking is top tier, but freezing cold nights combined with zero washing facilities made it a one-time visit for me."
+   },
+   {
+    "id": 11,
+    "author": "Zeynep",
+    "stars": 5,
+    "text": "My favorite campsite in Türkiye! The meadow is lush, the surrounding peaks are majestic, and the silence is healing. The ranger greeted us warmly and warned us about the cold night temps. Facilities are primitive, but if you respect the mountains, you will love it."
+   },
+   {
+    "id": 12,
+    "author": "Marcus",
+    "stars": 4,
+    "text": "Great spot for serious hikers. The trailhead access is unbeatable. Facilities are strictly pit toilets, so prepare accordingly. Nights are biting cold, so bring a heavy-duty tent and sleeping bag. The ranger was attentive and shared great stories about the region."
+   },
+   {
+    "id": 13,
+    "author": "Ayse",
+    "stars": 3,
+    "text": "Breathtaking views and lovely mountain air, but the lack of any shower facilities after a long dusty hike is tough. The temperature dropped drastically at night. The ranger is very kind, but the site needs better sanitation management for the pit toilets."
+   },
+   {
+    "id": 14,
+    "author": "Oliver",
+    "stars": 5,
+    "text": "Exceptional remote camping. No crowds, just raw alpine beauty and epic trails. The friendly ranger checked in daily. It gets very cold after dark, so a good stove and warm layers are mandatory. Pit toilets are standard for this elevation."
+   },
+   {
+    "id": 15,
+    "author": "Elif",
+    "stars": 4,
+    "text": "Loved the peaceful vibe and stunning meadow setting. Perfect basecamp for exploring the Kaqkar summits. Be ready for very basic conditions—no showers and rustic toilets. The ranger is a wonderful human being who helps out with everything."
+   },
+   {
+    "id": 16,
+    "author": "Thomas",
+    "stars": 1,
+    "text": "Too extreme for casual campers. The cold at night was unbearable without specialized gear, and the primitive pit toilets were in poor condition. Beautiful mountains, but the lack of any running water or basic comfort made it a miserable stay."
+   },
+   {
+    "id": 17,
+    "author": "Selin",
+    "stars": 5,
+    "text": "Magical place! Waking up surrounded by mist and jagged peaks is worth every bit of the rough conditions. Super friendly ranger. Just remember there are no showers, electricity, or shops, so pack smart and enjoy the pure wilderness."
+   },
+   {
+    "id": 18,
+    "author": "Kaya",
+    "stars": 3,
+    "text": "The scenery gets five stars, but the lack of facility upkeep brings it down. Pit toilets were smelly and unkempt. However, the hiking, the gorgeous alpine meadow, and the helpful ranger made up for the shortcomings. Bring warm clothes for freezing nights."
+   }
+  ]
+ },
+ {
+  "id": "riverside-family",
+  "name": "Riverside Family Camping",
+  "location": "Antalya, Türkiye",
+  "generated_by_ai": true,
+  "reviews": [
+   {
+    "id": 1,
+    "author": "Mehmet",
+    "stars": 4,
+    "text": "Fantastic location right near the heart of town! We walked to dinner every night. The pool is wonderfully refreshing and the whole property is extremely clean. Our only complaint is that the sites are quite small and jammed together, so you hear everything your neighbors do. Still, a well-run spot for families."
+   },
+   {
+    "id": 2,
+    "author": "Ayse",
+    "stars": 3,
+    "text": "Great for kids with the big playground and lovely pool area. Management keeps the bathrooms spotless. However, the afternoon gets extremely noisy with all the children playing around the sites. If you want peace and quiet, this isn't it. But my daughter loved it here."
+   },
+   {
+    "id": 3,
+    "author": "John",
+    "stars": 5,
+    "text": "Super clean and extremely well run! The staff works constantly to keep the facilities immaculate. It is so close to town which made sightseeing very convenient. The pool was a huge hit with the kids. Sites are a bit tight, but the overall atmosphere makes up for it completely."
+   },
+   {
+    "id": 4,
+    "author": "Deniz",
+    "stars": 4,
+    "text": "We had a wonderful weekend getaway here. The kids spent hours in the pool and at the playground. It is very family-oriented, which means afternoons are loud and lively. The location is unbeatable for accessing local shops. Just be prepared to cozy up to your neighbors since spaces are narrow."
+   },
+   {
+    "id": 5,
+    "author": "Sarah",
+    "stars": 3,
+    "text": "Cleanliness is top-notch here, I must admit. Bathrooms were scrubbed daily. Being so close to town was a huge plus for us. That said, the campsites are tiny and way too close together. Expect zero privacy. Afternoon noise from the playground is intense, but it quiets down nicely by bedtime."
+   },
+   {
+    "id": 6,
+    "author": "Emre",
+    "stars": 5,
+    "text": "The best family camping experience we have had in Antalya! The pool is pristine, and the management runs a tight, secure ship. Very close to town for supplies. Yes, the sites are small and afternoon noise happens, but that is expected when traveling with a family-focused crowd."
+   },
+   {
+    "id": 7,
+    "author": "Fatma",
+    "stars": 4,
+    "text": "Very nice campground with exceptional staff. Everything is kept super clean. The playground and pool kept our two boys endlessly entertained. It is very close to town. My only minor issue is the pitch size; our awning almost touched the next camper's van. Otherwise, highly recommended!"
+   },
+   {
+    "id": 8,
+    "author": "David",
+    "stars": 2,
+    "text": "Too cramped for my taste. You are practically sharing a campfire with the people next door. The kids were very noisy in the afternoon around the pool and playground. On the bright side, the location near town is great and the showers were very clean. Just too loud and crowded."
+   },
+   {
+    "id": 9,
+    "author": "Zeynep",
+    "stars": 5,
+    "text": "We loved Riverside! It is so well run and sparkling clean. The location relative to town is super convenient. Our kids made friends instantly at the playground. The sites are compact, but we spent all our time at the pool or exploring anyway. We will definitely return next summer."
+   },
+   {
+    "id": 10,
+    "author": "Can",
+    "stars": 3,
+    "text": "A mixed bag. The pool and playground are fantastic for keeping children busy. Management keeps everything looking neat and hygienic. But be warned: the plots are tiny and tightly packed. Afternoon hours get overwhelmingly noisy with kids shouting near the tents. Good location, but lacks privacy."
+   },
+   {
+    "id": 11,
+    "author": "Hannah",
+    "stars": 4,
+    "text": "A very vibrant, family-friendly campground. The pool area is gorgeous and clean. Being so close to town made grocery runs effortless. The sites are definitely on the small side, and afternoon playtime is loud, but it is a cheerful kind of noise. We enjoyed our stay overall."
+   },
+   {
+    "id": 12,
+    "author": "Burak",
+    "stars": 5,
+    "text": "Extremely well managed! The sanitary facilities are cleaned constantly. Perfect distance from town for a quick stroll into the center. The playground and pool are great amenities for families. The pitch spacing is tight, but friendly neighbors make it work. Highly satisfied."
+   },
+   {
+    "id": 13,
+    "author": "Cem",
+    "stars": 3,
+    "text": "Nice place overall, but way too crowded for us. The sites are tiny and squeezed tightly together. Afternoon noise levels around the pool and playground are quite high. However, you cannot beat the proximity to town, and the entire facility is kept impressively clean by the staff."
+   },
+   {
+    "id": 14,
+    "author": "Elif",
+    "stars": 4,
+    "text": "Wonderful option for families traveling with kids. The pool is refreshing, the playground is modern, and the entire camp is kept remarkably clean. It is wonderfully close to town. Sites are narrow, so expect to hear your neighbors, but the overall charm makes it worthwhile."
+   },
+   {
+    "id": 15,
+    "author": "Mark",
+    "stars": 2,
+    "text": "Not ideal if you want a relaxing holiday. The sites are minuscule and right on top of each other. Afternoon noise from children running around the playground is constant. Credit where due: the toilets were spotless and the location near town is handy, but we won't stay again."
+   },
+   {
+    "id": 16,
+    "author": "Selin",
+    "stars": 5,
+    "text": "We had an amazing time here! The pool and playground are top-tier for kids, and the management runs everything smoothly. It is so close to town that we walked in for dinner every night. The sites are compact, but the cleanliness and convenience completely make up for it."
+   },
+   {
+    "id": 17,
+    "author": "Kerem",
+    "stars": 3,
+    "text": "Decent campground with a great location near town. The pool is clean and inviting. My main gripes are the very small sites offering zero personal space, and the loud afternoon commotion from the playground. Good for a night or two if you have energetic kids."
+   },
+   {
+    "id": 18,
+    "author": "Yusuf",
+    "stars": 4,
+    "text": "A very well-run, family-friendly site. The pool is amazing and the grounds are kept impeccably clean. Being close to town is a major perk. The only downside is that campsites are cramped and neighbors are very close. Expect plenty of cheerful afternoon noise from the playground area."
+   }
+  ]
+ },
+ {
+  "id": "old-mill",
+  "name": "Old Mill Glamping",
+  "location": "Cappadocia, Türkiye",
+  "generated_by_ai": true,
+  "reviews": [
+   {
+    "id": 1,
+    "author": "Elif",
+    "stars": 4,
+    "text": "Waking up and watching the hot air balloons float right over our tent was an unforgettable experience. The location is truly magical, nestled right by the launch site. The bed was comfortable, though the tent walls are quite thin so you hear every passing car on the road at dawn. Staff took a while to bring extra blankets when we asked, but overall we loved the views."
+   },
+   {
+    "id": 2,
+    "author": "Liam",
+    "stars": 2,
+    "text": "Old Mill Glamping is vastly overpriced for what you actually get. Sure, the view of the balloons is nice, but the canvas tents are paper-thin and offer zero soundproofing against traffic. We asked management twice to fix a leaky sink in our private bath area, and nobody showed up until checkout day. Way too expensive for poor service and noisy nights."
+   },
+   {
+    "id": 3,
+    "author": "Zeynep",
+    "stars": 5,
+    "text": "An absolute dream trip! Cappadocia is breathtaking, and staying here put us right in the action. We stepped outside our tent at sunrise and had a front-row seat to dozens of balloons. Yes, it gets a bit loud from the road in the morning, but the scenery totally makes up for it. The tents are stylish and cozy inside."
+   },
+   {
+    "id": 4,
+    "author": "Marcus",
+    "stars": 3,
+    "text": "Mixed feelings about this spot. The location near the balloon launch site in Cappadocia is unbeatable for photography. However, the price is absurdly high considering the lack of proper amenities. The tent fabric blocks no noise, so bring earplugs. We also waited hours for assistance with our broken Wi-Fi router. Beautiful place, but needs better management."
+   },
+   {
+    "id": 5,
+    "author": "Deniz",
+    "stars": 1,
+    "text": "Terrible value for money. This place relies entirely on its proximity to the balloon site. The tents are freezing at night, road noise kept us awake all hours, and the staff completely ignored our complaints about the hot water heater not working. Do yourself a favor and book a proper cave hotel instead of this overpriced glamping site."
+   },
+   {
+    "id": 6,
+    "author": "Chloe",
+    "stars": 4,
+    "text": "We had a wonderful romantic getaway here despite a few hiccups. The morning view of the balloons launching is worth every penny of the location. The canvas walls are thin and traffic is loud early on, plus the front desk was slow to handle our check-in, but the gorgeous surroundings and unique vibe saved the trip for us."
+   },
+   {
+    "id": 7,
+    "author": "Ahmet",
+    "stars": 3,
+    "text": "Great views, poor execution. Old Mill Glamping has so much potential. Being right next to the Cappadocia balloon launch area is incredible. Unfortunately, the price tag is way too steep for tents with thin walls that let in all the highway noise. Staff seemed overworked and took forever to bring fresh towels. Might stay elsewhere next time."
+   },
+   {
+    "id": 8,
+    "author": "Sophia",
+    "stars": 5,
+    "text": "If you want to see balloons, this is the spot! We loved our stay here. The tents are beautifully decorated and felt very luxurious. It is noisy in the morning due to the road and the launch commotion, but we didn't mind because we wanted to be up early anyway. Staff was friendly, though a bit slow at times."
+   },
+   {
+    "id": 9,
+    "author": "Can",
+    "stars": 2,
+    "text": "Extremely disappointing. For the high nightly rate, I expected much better facilities and service. The tent walls are so thin we heard our neighbors breathing, plus cars zooming by all night. When our lights flickered, it took the staff half a day to send maintenance. Great backdrop with the balloons, but horribly managed."
+   },
+   {
+    "id": 10,
+    "author": "Emma",
+    "stars": 4,
+    "text": "Such a unique experience staying in a glamping tent in Turkey! The morning balloon show right outside our door blew us away. It is definitely overpriced and you can hear every car outside because the walls are thin. Maintenance was also slow when our AC acted up, but waking up to that view made us forget the flaws."
+   },
+   {
+    "id": 11,
+    "author": "Burak",
+    "stars": 3,
+    "text": "A mixed bag. The location in Cappadocia is a ten out of ten for balloon viewing. But the reality is that Old Mill Glamping is overpriced. The canvas tents do not block road noise at all, and the staff is quite sluggish when responding to requests. If you prioritize views over sleep and budget, you will enjoy it."
+   },
+   {
+    "id": 12,
+    "author": "Hannah",
+    "stars": 1,
+    "text": "Save your money! This place is a tourist trap. The tents are way too expensive, terribly overpriced for basic canvas shelters. The road noise is constant because the walls are paper thin. We reported a broken door latch and the staff promised to fix it immediately, but nobody ever came. Ruined our relaxing vacation vibe."
+   },
+   {
+    "id": 13,
+    "author": "Kerem",
+    "stars": 4,
+    "text": "Fantastic location right next to the balloon launch site! We took amazing photos right from the campsite. The tents are cute and cozy. Be prepared for early morning road noise since the walls are thin, and don't expect fast service from the front desk. Still, watching the balloons rise was a core memory for us."
+   },
+   {
+    "id": 14,
+    "author": "Olivia",
+    "stars": 3,
+    "text": "The scenery is stunning, but the stay itself was just okay. Old Mill Glamping charges luxury prices for a glamping experience that lacks proper sound insulation—traffic noise at dawn was brutal. Staff took ages to bring us extra pillows. It is a gorgeous spot in Cappadocia, but management needs to step up their game."
+   },
+   {
+    "id": 15,
+    "author": "Mehmet",
+    "stars": 5,
+    "text": "We loved every minute! Staying near the balloon launch site meant we barely had to walk to see the spectacle. The tents were clean, comfortable, and charming. Yes, it is pricey and you can hear the morning traffic through the canvas, but the magic of Cappadocia completely outweighed any minor negatives for us."
+   },
+   {
+    "id": 16,
+    "author": "Grace",
+    "stars": 2,
+    "text": "Not worth the heavy price tag. The glamping tents are extremely close to the main road, and with thin walls, you get zero sleep from the traffic and early tourists. We asked for help with our room safe and the staff took hours to show up. Beautiful area, but Old Mill Glamping misses the mark on comfort and service."
+   },
+   {
+    "id": 17,
+    "author": "Emre",
+    "stars": 4,
+    "text": "An unforgettable two days in Türkiye! The tents offer a fun outdoor feel with nice beds. The location by the balloon site is unbeatable. It is definitely on the expensive side, and you will hear cars passing by due to thin tent walls. The reception staff was a bit slow, but the sunrise views made up for it."
+   },
+   {
+    "id": 18,
+    "author": "Mia",
+    "stars": 3,
+    "text": "Beautiful location with direct views of the Cappadocia balloons, which was the highlight of our trip. However, the site is heavily overpriced. The tent walls are very thin, letting in road noise, and staff response times for basic requests are far too slow. Good for a quick photo-op stay, but not for deep relaxation."
+   }
+  ]
+ }
+]

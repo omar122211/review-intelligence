@@ -1,0 +1,1238 @@
+{
+ "pine-hollow": {
+  "reviews": {
+   "1": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Waking up right by the lake surrounded by dense pine trees was magical."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The new shower block is the cleanest I have ever seen at any campground."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "Very quiet at night."
+     }
+    ]
+   },
+   "2": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Stunning location by the water."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "the nighttime quiet is wonderful"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "pricing, which feels quite high for Turkey"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "hot showers and spotless facilities"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "spotless facilities"
+     }
+    ]
+   },
+   "3": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The natural setting by the Bolu lake is gorgeous"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "the new bathroom facilities are spotless"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "the nightly rate is overpriced for what you get"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "Peaceful at night, though."
+     }
+    ]
+   },
+   "4": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Pitches are right in the forest with lovely lake views."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "It was so peaceful at night, just the sound of the wind in the trees."
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "The shower block is brand new and impeccably clean."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The shower block is brand new"
+     }
+    ]
+   },
+   "5": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "Way too expensive for a campsite"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location by the lake in Bolu is nice"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "the new shower facilities are clean"
+     }
+    ]
+   },
+   "6": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "If you want peace and quiet, this is the place."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Pitching our tent among the pines right next to the lake was heavenly."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The shower block is modern and spotless."
+     }
+    ]
+   },
+   "7": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The lake setting is picturesque and the forest provides great shade"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "Facilities are brand new and very clean"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "It is on the pricier side compared to other spots in Bolu"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "the tranquility at night makes it worthwhile"
+     }
+    ]
+   },
+   "8": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Beautiful nature"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "new shower block is very clean"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "quite expensive though"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "weekend campers brought some noise"
+     }
+    ]
+   },
+   "9": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "slept so well because it is dead silent at night"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The new shower block is better than many hotels"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "It is a bit pricey"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "the forest beauty completely wins you over"
+     }
+    ]
+   },
+   "10": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "escape into the Bolu wilderness"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "Brand new, spotless showers are a huge plus."
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "steep price"
+     }
+    ]
+   },
+   "11": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "Not worth the money at all. Extremely overpriced"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "negative",
+      "quote": "The twenty-minute gravel road is awful"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the new shower block was clean"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "lack of amenities for children"
+     }
+    ]
+   },
+   "12": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The forest setting is lush and relaxing."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "At night, you hear nothing except nature."
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "The new shower block is gleaming and spotless."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The new shower block is gleaming and spotless."
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "It is definitely on the expensive side"
+     }
+    ]
+   },
+   "13": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The lake views are stunning, the forest sites are spacious"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "the new shower block is impressively clean"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "Exceptionally quiet at night"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "Worth every lira"
+     }
+    ]
+   },
+   "14": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The lake and pine trees are gorgeous"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "the new showers are spotless"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "the price is quite high for a patch of dirt in the woods"
+     }
+    ]
+   },
+   "15": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location right by the Bolu lake is hard to beat"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "absolute silence at night was glorious"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "Facilities are new and exceptionally clean"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "exceptionally clean"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "It is pricey"
+     }
+    ]
+   },
+   "16": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "Pine Hollow charges premium prices but lacks basic camp store options"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "negative",
+      "quote": "The twenty-minute gravel road is dusty and annoying"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the new shower block is very clean"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "It was quiet at night"
+     }
+    ]
+   },
+   "17": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Setting up camp by the lake under the pines was amazing"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "It is wonderfully quiet at night, perfect for deep sleep."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The new shower block is spotless and modern."
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "The new shower block is spotless and modern."
+     }
+    ]
+   },
+   "18": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Lovely forest and lake views make Pine Hollow special"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The brand new shower block is pristine"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "It is quite pricey for camping"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "tranquil nights by the water make it a memorable stay"
+     }
+    ]
+   }
+  },
+  "aspects": {
+   "cleanliness": {
+    "positive": 7
+   },
+   "value": {
+    "negative": 13,
+    "positive": 1
+   },
+   "location": {
+    "positive": 16,
+    "negative": 2
+   },
+   "facilities": {
+    "positive": 16,
+    "negative": 1
+   },
+   "noise_sleep": {
+    "positive": 13,
+    "negative": 1
+   }
+  },
+  "summary": {
+   "headline": "Campers praise the stunning lake and forest setting, spotless new shower block, and nighttime peace, though many complain about the high prices and long gravel access road.",
+   "pros": [
+    {
+     "text": "Spotless and modern new shower block",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Stunning lake and forest location",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Exceptionally quiet and peaceful at night",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      12,
+      13,
+      15,
+      17,
+      18
+     ]
+    }
+   ],
+   "cons": [
+    {
+     "text": "Bumpy, twenty-minute gravel access road",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "High prices and expensive nightly rates",
+     "reviews": [
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      16,
+      18
+     ]
+    }
+   ],
+   "best_for": "Nature lovers seeking a quiet, scenic lakeside retreat who do not mind paying higher prices and driving on a rough gravel road."
+  }
+ },
+ "sunset-dunes": {
+  "reviews": {
+   "1": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "Unbeatable price"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "beachfront spot in Fethiye. The sunsets over the water are genuinely breathtaking"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "Pitches are a bit tight"
+     }
+    ]
+   },
+   "2": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Loved the location"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "the price is super cheap"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "the noise from the nearby beach bar kept us awake until 2 AM"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "The bathrooms also get really messy during peak evening hours"
+     }
+    ]
+   },
+   "3": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "budget-friendly camp"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Sunset views are legendary"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "Facilities need more frequent cleaning during peak summer"
+     }
+    ]
+   },
+   "4": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "music from the beach bar thumps until the early morning hours, making sleep impossible"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "Bathrooms were frankly gross by midday."
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "Cheap rates"
+     }
+    ]
+   },
+   "5": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "Incredible value!"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "steps from the beach"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "neutral",
+      "quote": "the music is loud"
+     }
+    ]
+   },
+   "6": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "location directly on the beach is stunning"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "prices are very affordable for the region"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "sanitary facilities are heavily overworked"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "rarely clean"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Expect party noise late into the night."
+     }
+    ]
+   },
+   "7": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "stepping out of your tent right onto the sand"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "definitely noisy with the beach crowd"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "bathrooms need constant attention"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "price-to-view ratio is amazing"
+     }
+    ]
+   },
+   "8": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "deafeningly loud with beach club music"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "the toilets were filthy beyond belief"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "Cheap pricing does not excuse poor sanitation"
+     }
+    ]
+   },
+   "9": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "sunsets are pure magic"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "It is loud and chaotic in the summer"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "Bathrooms could be cleaner"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "super low price"
+     }
+    ]
+   },
+   "10": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "Decent place if you are on a tight budget"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "love the beach. The evening sunsets are world-class."
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "restrooms get neglected when the park is full"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "nearby bar music is loud until late"
+     }
+    ]
+   },
+   "11": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "The camping fee is very low compared to other spots along the coast."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The beach access is immediate and the sunsets are unforgettable."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "Facilities are basic and busy, but perfectly fine for us."
+     }
+    ]
+   },
+   "12": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Too much party noise"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "not enough bathroom upkeep"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "spot is right on the beach"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "very cheap, which is nice"
+     }
+    ]
+   },
+   "13": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Stunning location"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "cheap rates"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "the bathrooms take a beating"
+     }
+    ]
+   },
+   "14": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "incredible evening views"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "neutral",
+      "quote": "inexpensive, but you get what you pay for"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "noisy neighbors, loud beach bars"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "dirty bathrooms during peak hours"
+     }
+    ]
+   },
+   "15": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "the bathrooms get messy"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "right on a gorgeous beach"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "for a fraction of what others charge"
+     }
+    ]
+   },
+   "16": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "lack of cleanliness"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "beach bar bass vibrated our van until 3 AM"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The beach is nice"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "the price is cheap"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "sanitary blocks were disgusting by morning"
+     }
+    ]
+   },
+   "17": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "cheap"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "right on the water"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "loud music from the surrounding area"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "waiting for the restrooms"
+     }
+    ]
+   },
+   "18": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Gorgeous sunsets"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "positive",
+      "quote": "very affordable"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "noise level"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "dirty facilities"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "dirty facilities"
+     }
+    ]
+   }
+  },
+  "aspects": {
+   "cleanliness": {
+    "negative": 13
+   },
+   "value": {
+    "positive": 16,
+    "negative": 1,
+    "neutral": 1
+   },
+   "location": {
+    "positive": 16
+   },
+   "facilities": {
+    "negative": 6,
+    "positive": 1
+   },
+   "noise_sleep": {
+    "negative": 12,
+    "neutral": 1
+   }
+  },
+  "summary": {
+   "headline": "Campers love the beachfront location, low prices, and sunset views, but complain about loud late-night party noise and poorly maintained bathrooms.",
+   "pros": [
+    {
+     "text": "Affordable and budget-friendly rates",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Prime beachfront location",
+     "reviews": [
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17
+     ]
+    },
+    {
+     "text": "Stunning sunset views",
+     "reviews": [
+      1,
+      3,
+      5,
+      7,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      18
+     ]
+    }
+   ],
+   "cons": [
+    {
+     "text": "Dirty and poorly maintained bathrooms",
+     "reviews": [
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18
+     ]
+    },
+    {
+     "text": "Loud late-night music and party noise",
+     "reviews": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      12,
+      14,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Overcrowded during peak season",
+     "reviews": [
+      4,
+      5,
+      6,
+      8,
+      9,
+      13,
+      15,
+      17,
+      18
+     ]
+    }
+   ],
+   "best_for": "Budget travelers, backpackers, and lively beachgoers who do not mind noise and basic facilities in exchange for cheap rates and great views."
+  }
+ },
+ "eagle-ridge": {
+  "reviews": {
+   "1": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Waking up to these alpine views is something I will never forget"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "neutral",
+      "quote": "Facilities are as basic as advertised with pit toilets and zero showers"
+     }
+    ]
+   },
+   "2": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location is breathtaking"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "The pit toilets were pretty rough by the second day"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "the lack of running water is a challenge"
+     }
+    ]
+   },
+   "3": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Excellent access to stunning hiking trails right from your site"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "Facilities are primitive with no showers"
+     }
+    ]
+   },
+   "4": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Stunning scenery"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "very peaceful atmosphere"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "neutral",
+      "quote": "Pit toilets are extremely basic"
+     }
+    ]
+   },
+   "5": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "negative",
+      "quote": "Too remote"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "having no showers"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "overflowing pit toilets"
+     }
+    ]
+   }
+  }
+ }
+}
