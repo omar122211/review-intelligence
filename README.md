@@ -6,14 +6,41 @@ Built as the review layer for [YelpCamp](https://omar122211.github.io/profile/#w
 
 ![Campground insights dashboard](docs/insights.jpg)
 
+| Analyse a review | Search by meaning |
+|---|---|
+| ![Analysis with quotes and an owner reply](docs/analyze.jpg) | ![Semantic search](docs/search.jpg) |
+
 ## The main question: which model should do the work?
 
 I trained and compared four approaches on the same **real, human-written reviews never seen in training**:
 
-RESULTS_TABLE
+**Overall sentiment** (negative / neutral / positive)
+
+| Approach | 3,000 test reviews | Same 300 reviews incl. Gemini | Time per review | Cost |
+|---|---|---|---|---|
+| TF-IDF + logistic regression | 78.0 % | 75.3 % | < 1 ms | free |
+| MiniLM sentence embeddings (frozen) + logistic regression | 73.4 % | 70.3 % | 41 ms | free |
+| **MiniLM fine-tuned by me** (22M parameters, 2 epochs on a laptop CPU) | **79.4 %** | **78.3 %** | **46 ms** | free, offline |
+| Gemini 3.5 Flash-Lite, zero-shot | – | 77.3 % (macro F1 0.74 vs 0.78) | 954 ms | API call per review |
+
+**Aspects** — when Gemini says a review is positive or negative about an aspect, do the reviewer's *own* star ratings for that aspect agree?
+
+| Aspect | Mentioned in | Agrees with reviewer's aspect stars |
+|---|---|---|
+| Cleanliness | 52 % of reviews | **97 %** (113/117) |
+| Location | 71 % | **97 %** (175/180) |
+| Value for money | 51 % | 91 % (98/108) |
+| Sites & facilities | 92 % | 89 % (160/180) |
+| Quiet & sleep | 35 % | 81 % (68/84) |
+
+Full tables, including the local aspect models: [`eval/results.md`](eval/results.md).
 
 Takeaways:
-TAKEAWAYS
+
+- **The fine-tuned small model is the best sentiment classifier** — slightly more accurate than Gemini on the same reviews, ~20× faster, free and private. So it runs on every review.
+- **Classic TF-IDF is a tough baseline:** only 1.4 points behind the fine-tuned transformer, and it beat frozen sentence embeddings by 4.6 points. Embeddings trained for *similarity* aren't automatically good *sentiment* features.
+- **Nearly all mistakes involve 3-star reviews.** In a sample of 400 test reviews, the model confused negative with positive only 3 times; the rest were neutral ↔ negative/positive — and 3-star reviews are genuinely mixed.
+- **Aspects are where the LLM earns its cost:** local per-aspect models only reach macro F1 0.51–0.70 (they must guess every aspect, mentioned or not), while Gemini picks out the aspects a review actually mentions, quotes the evidence, and agrees with the reviewer's own aspect ratings 81–97 % of the time. So aspects come from Gemini — computed once per review and cached.
 
 ## How it works
 

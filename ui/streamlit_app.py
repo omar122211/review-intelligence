@@ -84,7 +84,8 @@ with tab_insights:
     st.caption("From the aspects each review actually mentions (AI-read, every mention backed by a quote).")
     for a in cg["aspects"]:
         c1, c2 = st.columns([1.2, 3])
-        c1.markdown(f"**{a['label']}**  \n<small>{a['mentions']} mentions</small>", unsafe_allow_html=False)
+        c1.markdown(f"**{a['label']}**")
+        c1.caption(f"{a['mentions']} mentions")
         if a["mentions"]:
             c2.progress(a["positive_share"], text=f"{a['positive']} 👍 · {a['negative']} 👎 · {a['neutral']} 😐")
         else:
@@ -123,33 +124,42 @@ with tab_analyze:
     run_local = b1.button("Analyse (local model)", type="primary", width="stretch")
     run_explain = b2.button("✨ Explain with AI", width="stretch")
     run_reply = b3.button("✉️ Draft owner reply", width="stretch")
+    # keep results on screen until the text changes, so the analysis and the reply can be read together
+    if st.session_state.get("analysed_text") != text:
+        st.session_state.analysed_text, st.session_state.analysis, st.session_state.reply = text, None, None
     if text.strip() and (run_local or run_explain):
         res, err = api("POST", "/analyze", params={"explain": str(run_explain).lower()}, json={"text": text})
         if err:
             st.error(err)
         else:
-            sres = res["local"]["sentiment"]
-            st.markdown(f"### {MOOD[sres['sentiment']]} · {sres['confidence']:.0%} sure")
-            st.caption(f"{res['local']['model']} · {res['latency_ms']} ms")
-            if res.get("explanation"):
-                st.markdown("**What the review says, with quotes**")
-                for m in res["explanation"]["aspects"]:
-                    st.markdown(f"- {MOOD[m['sentiment']]} **{m['aspect'].replace('_', ' & ')}** — “{m['quote']}”")
-                if not res["explanation"]["aspects"]:
-                    st.caption("No specific aspects mentioned.")
-            elif res.get("explanation_error"):
-                st.info(res["explanation_error"])
-            with st.expander("Aspect estimates from the local model"):
-                st.caption("Predicted for every aspect, even ones the review doesn't mention.")
-                st.table({"Aspect": [a["label"] for a in res["local"]["aspects"]],
-                          "Estimate": [f"{MOOD[a['sentiment']]} ({a['confidence']:.0%})" for a in res["local"]["aspects"]]})
+            st.session_state.analysis = res
     if text.strip() and run_reply:
         res, err = api("POST", "/reply", json={"text": text, "campground": cg["name"]})
         if err:
             st.error(err)
         else:
-            st.markdown("**Suggested reply** — always read and edit before posting")
-            st.text_area("Reply", res["reply"], height=180, label_visibility="collapsed")
+            st.session_state.reply = res["reply"]
+
+    res = st.session_state.get("analysis")
+    if res:
+        sres = res["local"]["sentiment"]
+        st.markdown(f"### {MOOD[sres['sentiment']]} · {sres['confidence']:.0%} sure")
+        st.caption(f"{res['local']['model']} · {res['latency_ms']} ms")
+        if res.get("explanation"):
+            st.markdown("**What the review says, with quotes**")
+            for m in res["explanation"]["aspects"]:
+                st.markdown(f"- {MOOD[m['sentiment']]} **{m['aspect'].replace('_', ' & ')}** — “{m['quote']}”")
+            if not res["explanation"]["aspects"]:
+                st.caption("No specific aspects mentioned.")
+        elif res.get("explanation_error"):
+            st.info(res["explanation_error"])
+        with st.expander("Aspect estimates from the local model"):
+            st.caption("Predicted for every aspect, even ones the review doesn't mention.")
+            st.table({"Aspect": [a["label"] for a in res["local"]["aspects"]],
+                      "Estimate": [f"{MOOD[a['sentiment']]} ({a['confidence']:.0%})" for a in res["local"]["aspects"]]})
+    if st.session_state.get("reply"):
+        st.markdown("**Suggested reply** — always read and edit before posting")
+        st.text_area("Reply", st.session_state.reply, height=180, label_visibility="collapsed")
 
 # ---------------------------------------------------------------- all reviews
 with tab_reviews:

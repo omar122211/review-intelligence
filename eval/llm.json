@@ -1,0 +1,57 @@
+{
+ "sentiment": {
+  "TF-IDF + logistic regression": {
+   "accuracy": 0.7533,
+   "macro_f1": 0.753,
+   "n": 300,
+   "ms": null
+  },
+  "MiniLM embeddings + logistic regression": {
+   "accuracy": 0.7033,
+   "macro_f1": 0.7023,
+   "n": 300,
+   "ms": null
+  },
+  "Fine-tuned MiniLM": {
+   "accuracy": 0.7833,
+   "macro_f1": 0.7823,
+   "n": 300,
+   "ms": 46.5
+  },
+  "Gemini zero-shot": {
+   "accuracy": 0.7733,
+   "macro_f1": 0.7426,
+   "n": 300,
+   "ms": 954.5
+  }
+ },
+ "aspects": {
+  "cleanliness": {
+   "mentions": 157,
+   "checked": 117,
+   "agree": 113
+  },
+  "value": {
+   "mentions": 154,
+   "checked": 108,
+   "agree": 98
+  },
+  "location": {
+   "mentions": 214,
+   "checked": 180,
+   "agree": 175
+  },
+  "facilities": {
+   "mentions": 276,
+   "checked": 180,
+   "agree": 160
+  },
+  "noise_sleep": {
+   "mentions": 106,
+   "checked": 84,
+   "agree": 68
+  }
+ },
+ "api_errors": 0,
+ "n": 300
+}

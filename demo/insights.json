@@ -1232,7 +1232,1476 @@
       "quote": "overflowing pit toilets"
      }
     ]
+   },
+   "6": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "neutral",
+      "quote": "Pit toilets and no electricity"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "quiet time"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The hiking trails nearby are world-class"
+     }
+    ]
+   },
+   "7": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Amazing backdrop of the Kaqkar peaks"
+     }
+    ]
+   },
+   "8": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The landscape is a solid five stars"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "primitive facilities drag it down"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "Pit toilets need better maintenance"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "It is freezing at night"
+     }
+    ]
+   },
+   "9": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Incredible alpine meadow camping! You are completely immersed in nature"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "zero urban noise"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "neutral",
+      "quote": "facilities are basic with no showers"
+     }
+    ]
+   },
+   "10": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "pit toilets were truly awful"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location is undeniably gorgeous"
+     }
+    ]
+   },
+   "11": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The meadow is lush, the surrounding peaks are majestic"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "the silence is healing"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "neutral",
+      "quote": "Facilities are primitive"
+     }
+    ]
+   },
+   "12": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The trailhead access is unbeatable."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "neutral",
+      "quote": "Facilities are strictly pit toilets"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Nights are biting cold"
+     }
+    ]
+   },
+   "13": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Breathtaking views and lovely mountain air"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "the lack of any shower facilities"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "negative",
+      "quote": "better sanitation management for the pit toilets"
+     }
+    ]
+   },
+   "14": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "No crowds, just raw alpine beauty and epic trails."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "neutral",
+      "quote": "Pit toilets are standard for this elevation."
+     }
+    ]
+   },
+   "15": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "positive",
+      "quote": "peaceful vibe"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "stunning meadow setting"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "very basic conditions—no showers and rustic toilets"
+     }
+    ]
+   },
+   "16": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "The cold at night was unbearable"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "primitive pit toilets were in poor condition"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Beautiful mountains"
+     }
+    ]
+   },
+   "17": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Waking up surrounded by mist and jagged peaks"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "no showers, electricity, or shops"
+     }
+    ]
+   },
+   "18": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The scenery gets five stars"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "Pit toilets were smelly and unkempt"
+     }
+    ]
    }
+  },
+  "aspects": {
+   "cleanliness": {
+    "negative": 4
+   },
+   "value": {},
+   "location": {
+    "positive": 17,
+    "negative": 1
+   },
+   "facilities": {
+    "neutral": 7,
+    "negative": 10
+   },
+   "noise_sleep": {
+    "positive": 5,
+    "negative": 3
+   }
+  },
+  "summary": {
+   "headline": "Campers rave about the breathtaking alpine scenery and friendly ranger, though many note the freezing nights and extremely basic, poorly maintained pit toilets.",
+   "pros": [
+    {
+     "text": "Breathtaking mountain views and stunning alpine scenery",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Incredibly welcoming and helpful camp ranger",
+     "reviews": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      13,
+      14,
+      15,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Top-tier access to world-class hiking trails",
+     "reviews": [
+      3,
+      6,
+      8,
+      10,
+      12,
+      14,
+      15,
+      18
+     ]
+    },
+    {
+     "text": "Peaceful, remote wilderness with no crowds",
+     "reviews": [
+      3,
+      4,
+      6,
+      9,
+      11,
+      14,
+      15,
+      17
+     ]
+    }
+   ],
+   "cons": [
+    {
+     "text": "Pit toilets are poorly maintained and get very rough",
+     "reviews": [
+      2,
+      5,
+      8,
+      10,
+      13,
+      16,
+      18
+     ]
+    },
+    {
+     "text": "Nights get intensely and unexpectedly freezing",
+     "reviews": [
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      18
+     ]
+    },
+    {
+     "text": "Lack of showers and running water",
+     "reviews": [
+      1,
+      2,
+      3,
+      5,
+      9,
+      10,
+      13,
+      16,
+      17
+     ]
+    }
+   ],
+   "best_for": "Experienced hikers and self-sufficient nature lovers who prioritize remote alpine beauty and hiking over comfort and modern facilities."
+  }
+ },
+ "riverside-family": {
+  "reviews": {
+   "1": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Fantastic location right near the heart of town!"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The pool is wonderfully refreshing"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the whole property is extremely clean."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "you hear everything your neighbors do."
+     }
+    ]
+   },
+   "2": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "big playground and lovely pool area"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "Management keeps the bathrooms spotless."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "the afternoon gets extremely noisy"
+     }
+    ]
+   },
+   "3": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "Super clean and extremely well run!"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "keep the facilities immaculate"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "close to town which made sightseeing very convenient"
+     }
+    ]
+   },
+   "4": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The kids spent hours in the pool and at the playground"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "neutral",
+      "quote": "means afternoons are loud and lively"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location is unbeatable for accessing local shops"
+     }
+    ]
+   },
+   "5": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "Cleanliness is top-notch here"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "Bathrooms were scrubbed daily"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Being so close to town was a huge plus"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Afternoon noise from the playground is intense"
+     }
+    ]
+   },
+   "6": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The pool is pristine"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Very close to town for supplies"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "afternoon noise happens"
+     }
+    ]
+   },
+   "7": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "Everything is kept super clean."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The playground and pool kept our two boys endlessly entertained."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "It is very close to town."
+     }
+    ]
+   },
+   "8": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "Too cramped for my taste. You are practically sharing a campfire"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "the location near town is great"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the showers were very clean"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Just too loud and crowded"
+     }
+    ]
+   },
+   "9": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "sparkling clean"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location relative to town is super convenient"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "playground"
+     }
+    ]
+   },
+   "10": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The pool and playground are fantastic"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "keeps everything looking neat and hygienic"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Afternoon hours get overwhelmingly noisy"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Good location"
+     }
+    ]
+   },
+   "11": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "The pool area is gorgeous and clean."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Being so close to town made grocery runs effortless."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "The sites are definitely on the small side"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "neutral",
+      "quote": "afternoon playtime is loud, but it is a cheerful kind of noise."
+     }
+    ]
+   },
+   "12": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "The sanitary facilities are cleaned constantly."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Perfect distance from town for a quick stroll into the center."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The playground and pool are great amenities"
+     }
+    ]
+   },
+   "13": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "The sites are tiny and squeezed tightly together."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Afternoon noise levels around the pool and playground are quite high."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "you cannot beat the proximity to town"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the entire facility is kept impressively clean"
+     }
+    ]
+   },
+   "14": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the entire camp is kept remarkably clean"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "It is wonderfully close to town"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The pool is refreshing, the playground is modern"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "expect to hear your neighbors"
+     }
+    ]
+   },
+   "15": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "The sites are minuscule and right on top of each other."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Afternoon noise from children running around the playground is constant."
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the toilets were spotless"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "the location near town is handy"
+     }
+    ]
+   },
+   "16": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The pool and playground are top-tier for kids"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "It is so close to town that we walked in for dinner every night."
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "the cleanliness and convenience completely make up for it"
+     }
+    ]
+   },
+   "17": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "great location near town"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The pool is clean and inviting"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "loud afternoon commotion from the playground"
+     }
+    ]
+   },
+   "18": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "grounds are kept impeccably clean"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Being close to town is a major perk"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The pool is amazing"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "neutral",
+      "quote": "cheerful afternoon noise from the playground"
+     }
+    ]
+   }
+  },
+  "aspects": {
+   "cleanliness": {
+    "positive": 15
+   },
+   "value": {},
+   "location": {
+    "positive": 17
+   },
+   "facilities": {
+    "positive": 14,
+    "negative": 4
+   },
+   "noise_sleep": {
+    "negative": 10,
+    "neutral": 3
+   }
+  },
+  "summary": {
+   "headline": "Campers praise the exceptionally clean facilities, fantastic pool, and convenient proximity to town, though many note that the campsites are cramped and noisy in the afternoons.",
+   "pros": [
+    {
+     "text": "Extremely clean and well-maintained facilities",
+     "reviews": [
+      1,
+      2,
+      3,
+      5,
+      7,
+      8,
+      9,
+      10,
+      12,
+      13,
+      14,
+      15,
+      16,
+      18
+     ]
+    },
+    {
+     "text": "Great location close to town",
+     "reviews": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Fantastic pool and playground for kids",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Well-run and managed property",
+     "reviews": [
+      1,
+      3,
+      6,
+      9,
+      12,
+      16,
+      18
+     ]
+    }
+   ],
+   "cons": [
+    {
+     "text": "Campsites are very small and close together",
+     "reviews": [
+      1,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Noisy afternoons due to children playing",
+     "reviews": [
+      2,
+      4,
+      5,
+      6,
+      8,
+      10,
+      11,
+      13,
+      15,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Lack of privacy",
+     "reviews": [
+      5,
+      8,
+      10,
+      17
+     ]
+    }
+   ],
+   "best_for": "Families with kids looking for a clean, amenity-packed campground within walking distance of town."
+  }
+ },
+ "old-mill": {
+  "reviews": {
+   "1": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location is truly magical, nestled right by the launch site."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The bed was comfortable"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "you hear every passing car on the road at dawn"
+     }
+    ]
+   },
+   "2": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "vastly overpriced for what you actually get"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "the view of the balloons is nice"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "offer zero soundproofing against traffic"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "fix a leaky sink in our private bath area, and nobody showed up"
+     }
+    ]
+   },
+   "3": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Cappadocia is breathtaking, and staying here put us right in the action."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "it gets a bit loud from the road in the morning"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The tents are stylish and cozy inside."
+     }
+    ]
+   },
+   "4": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location near the balloon launch site in Cappadocia is unbeatable for photography."
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "the price is absurdly high considering the lack of proper amenities."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "lack of proper amenities"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "The tent fabric blocks no noise, so bring earplugs."
+     }
+    ]
+   },
+   "5": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "Terrible value for money."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "its proximity to the balloon site"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "The tents are freezing at night"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "road noise kept us awake all hours"
+     }
+    ]
+   },
+   "6": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The morning view of the balloons launching is worth every penny of the location."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "traffic is loud early on"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "the front desk was slow to handle our check-in"
+     }
+    ]
+   },
+   "7": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Being right next to the Cappadocia balloon launch area is incredible"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "the price tag is way too steep"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "tents with thin walls that let in all the highway noise"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "took forever to bring fresh towels"
+     }
+    ]
+   },
+   "8": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "If you want to see balloons, this is the spot!"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The tents are beautifully decorated and felt very luxurious."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "It is noisy in the morning due to the road and the launch commotion"
+     }
+    ]
+   },
+   "9": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "For the high nightly rate, I expected much better facilities"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "expected much better facilities and service"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "we heard our neighbors breathing, plus cars zooming by all night"
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Great backdrop with the balloons"
+     }
+    ]
+   },
+   "10": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The morning balloon show right outside our door blew us away"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "It is definitely overpriced"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "you can hear every car outside because the walls are thin"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "Maintenance was also slow when our AC acted up"
+     }
+    ]
+   },
+   "11": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location in Cappadocia is a ten out of ten for balloon viewing."
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "Old Mill Glamping is overpriced."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "The canvas tents do not block road noise at all"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "the staff is quite sluggish when responding to requests."
+     }
+    ]
+   },
+   "12": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "terribly overpriced for basic canvas shelters"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "road noise is constant because the walls are paper thin"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "reported a broken door latch and the staff promised to fix it immediately, but nobody ever came"
+     }
+    ]
+   },
+   "13": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Fantastic location right next to the balloon launch site!"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The tents are cute and cozy."
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "Be prepared for early morning road noise since the walls are thin"
+     }
+    ]
+   },
+   "14": {
+    "sentiment": "neutral",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The scenery is stunning"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "charges luxury prices"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "traffic noise at dawn was brutal"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "lacks proper sound insulation"
+     }
+    ]
+   },
+   "15": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Staying near the balloon launch site meant we barely had to walk"
+     },
+     {
+      "aspect": "cleanliness",
+      "sentiment": "positive",
+      "quote": "The tents were clean, comfortable, and charming"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The tents were clean, comfortable, and charming"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "it is pricey"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "you can hear the morning traffic through the canvas"
+     }
+    ]
+   },
+   "16": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "Not worth the heavy price tag."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "negative",
+      "quote": "The glamping tents are extremely close to the main road"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "you get zero sleep from the traffic and early tourists."
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "staff took hours to show up"
+     }
+    ]
+   },
+   "17": {
+    "sentiment": "positive",
+    "aspects": [
+     {
+      "aspect": "facilities",
+      "sentiment": "positive",
+      "quote": "The tents offer a fun outdoor feel with nice beds."
+     },
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "The location by the balloon site is unbeatable."
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "It is definitely on the expensive side"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "you will hear cars passing by due to thin tent walls."
+     }
+    ]
+   },
+   "18": {
+    "sentiment": "negative",
+    "aspects": [
+     {
+      "aspect": "location",
+      "sentiment": "positive",
+      "quote": "Beautiful location with direct views of the Cappadocia balloons"
+     },
+     {
+      "aspect": "value",
+      "sentiment": "negative",
+      "quote": "the site is heavily overpriced"
+     },
+     {
+      "aspect": "noise_sleep",
+      "sentiment": "negative",
+      "quote": "The tent walls are very thin, letting in road noise"
+     },
+     {
+      "aspect": "facilities",
+      "sentiment": "negative",
+      "quote": "staff response times for basic requests are far too slow"
+     }
+    ]
+   }
+  },
+  "aspects": {
+   "cleanliness": {
+    "positive": 1
+   },
+   "value": {
+    "negative": 13
+   },
+   "location": {
+    "positive": 16,
+    "negative": 1
+   },
+   "facilities": {
+    "positive": 6,
+    "negative": 12
+   },
+   "noise_sleep": {
+    "negative": 18
+   }
+  },
+  "summary": {
+   "headline": "Campers are mesmerized by the unbeatable hot air balloon views, but frustrated by high prices, thin walls with road noise, and slow staff service.",
+   "pros": [
+    {
+     "text": "Incredible views of the hot air balloon launch",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      13,
+      14,
+      15,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Stylish and cozy tents",
+     "reviews": [
+      1,
+      3,
+      8,
+      13,
+      15,
+      17
+     ]
+    }
+   ],
+   "cons": [
+    {
+     "text": "Thin tent walls that let in loud road and traffic noise",
+     "reviews": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      16,
+      17,
+      18
+     ]
+    },
+    {
+     "text": "Slow and unresponsive staff service",
+     "reviews": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      11,
+      12,
+      14,
+      16,
+      18
+     ]
+    },
+    {
+     "text": "Overpriced for what is provided",
+     "reviews": [
+      2,
+      4,
+      5,
+      7,
+      9,
+      10,
+      11,
+      12,
+      14,
+      16,
+      18
+     ]
+    }
+   ],
+   "best_for": "Travelers who prioritize front-row hot air balloon views over a quiet night's sleep and fast service."
   }
  }
 }
